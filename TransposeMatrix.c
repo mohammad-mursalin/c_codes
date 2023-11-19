@@ -13,7 +13,7 @@ int main()
         printf("\n");
     }
 
-    printf("\n\n");
+    printf("\n\n");   //sorting in ascending order
 
     for(int i = 0 ; i<3 ; i++)
     {
