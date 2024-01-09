@@ -16,8 +16,6 @@ int main()
 
     //     // fprintf(f2,"%s",file1);
 
-    //     char c;
-
     //     fputc(fgetc(f1),f2);
     // }
 
